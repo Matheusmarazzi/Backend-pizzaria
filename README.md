@@ -1,4 +1,4 @@
-# Backend do projeto pizzaria do curso de typeScript
+# Backend do projeto pizzaria do curso de typeScript em Node
 
 Skills:
 - Banco de dados postgresql
@@ -7,3 +7,5 @@ Skills:
 - Hash (criptografia de senhas)
 - JWT
 - Manipulação de dados via JSON
+- Express
+  
